@@ -84,6 +84,7 @@ CREATE TABLE movimentacao_estoque (
   quantidade INT,
   data_movimentacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
 
 ### 3 No arquivo src/br/com/controleestoque/util/ConexaoBD.java, ajuste:
 
