@@ -19,6 +19,7 @@ Sistema simples de controle de estoque desenvolvido em Java, utilizando banco de
 ## 📁 Estrutura do Projeto
 
 - `model/`: Contém as classes de domínio (`Produto`, `ProdutoPerecivel`, `ProdutoNaoPerecivel`)
+- `menu/`: Interativo 
 - `gerenciador/`: Contém a lógica de cadastro, edição e listagem
 - `util/`: Contém a classe de conexão com banco de dados (`ConexaoBD`)
 
